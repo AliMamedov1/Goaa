@@ -1,0 +1,6 @@
+user_name = input("whats your name: ")
+surname= input("whats your surname: ")
+age= input("whats your age: ")
+print("man tkva rom misi saxelia: " + user_name )
+print("man tkva rom misi gvaria: " + surname)
+print("man tkva rom misi asakia: " + age)
